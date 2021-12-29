@@ -1,4 +1,4 @@
-# Project06_23DogCat
+# AD_ex06_23DogCat
 
 # 사진 넘겨보기
 
